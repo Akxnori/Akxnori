@@ -62,5 +62,3 @@ const davi = {
 </picture>
 
 ###
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Akxnori/Akxnori/output/pacman-contribution-graph.svg)
