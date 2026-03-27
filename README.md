@@ -8,10 +8,16 @@
 
 <br clear="both">
 
-<p align="left">const davi = {<br>  role: "Software Engineering student",<br>  location: "Brasília, Brazil",<br>  focus: ["Java", "Object-Oriented Programming", "Problem Solving"],<br>  currently: "Building projects and strengthening core development skills",<br>  goal: "Grow as a developer and create reliable software",<br>};</p>
-
-###
-
+```js
+const davi = {
+  role: "Software Engineering student",
+  education: "B.Sc. in Software Engineering @ UNICEPLAC (2028)",
+  location: "Brasília, Brazil",
+  focus: ["Java", "Object-Oriented Programming", "Problem Solving"],
+  currently: "Learning software fundamentals and building practical projects",
+  mindset: "Always improving through consistency and hands-on experience"
+};
+```
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
